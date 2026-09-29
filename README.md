@@ -1,2 +1,4 @@
 # College-demo
-my first git repository
+my first git repository .
+author = aryan rane
+
